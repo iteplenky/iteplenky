@@ -27,7 +27,7 @@ class About extends Me
     {
         return [
             Php::class,
-            Javascript::class,
+            Python::class,
             Html::class,
             Css::class
         ];
